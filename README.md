@@ -3,3 +3,8 @@
 This is the completed project for the Next.js App Router Course. It contains the code for the dashboard application.
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+
+to test the application use login info:
+
+username: user@nextmail.com
+email: 123456
